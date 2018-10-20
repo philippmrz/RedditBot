@@ -3,3 +3,4 @@ secrets
 *.ini
 stuff.csv
 posts_replied_to.txt
+log.txt
